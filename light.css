@@ -1,0 +1,21 @@
+body {
+    background-color: white;
+    color: black;
+}
+
+h1, h2, h3, h4, h5 {
+    text-shadow: 1px 1px rgb(128, 128, 96);
+
+}
+
+.navbar {
+    background-color: rgb(78, 156, 228);
+}
+
+.navbar-brand {
+    color: black;
+}
+
+.nav-link {
+    color: rgb(44, 66, 56);
+}

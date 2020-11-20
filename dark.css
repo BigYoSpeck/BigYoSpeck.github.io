@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(13, 26, 38);
+    color: rgb(220, 220, 200);
+}
+
+h1, h2, h3, h4, h5 {
+    text-shadow: 1px 1px rgb(128, 128, 96);
+}
+
+.navbar {
+    background-color: rgb(26, 52, 76);
+}
+
+.navbar-brand {
+    color: rgb(255, 230, 128);
+}
+
+.nav-link {
+    color: rgb(132, 199, 168);
+}
+
+.card-header {
+    background-color: rgb(26, 52, 78);
+    color: rgb(220, 220, 200);
+}
+
+.card-body {
+    background-color: rgb(13, 26, 38);
+    color: rgb(220, 220, 200);
+}
+
+.dropdown-menu {
+    background-color: rgb(13, 26, 38);
+}
+
+.dropdown-item {
+    color: rgb(220, 220, 200);
+}
+
+.mb-1 {
+    color: rgb(220, 220, 200);
+}
+
+.list-group-item  {
+    background-color: rgb(26, 52, 78);
+
+}
+
